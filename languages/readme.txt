@@ -1,0 +1,1 @@
+Please store your mo file here as bp-wire_YourLang.mo

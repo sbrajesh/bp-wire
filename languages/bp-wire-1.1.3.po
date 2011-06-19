@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bp-wire\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-26 19:25+0530\n"
+"PO-Revision-Date: 2010-09-26 19:25+0530\n"
+"Last-Translator: Brajesh Singh <brajesh@cosmiccoders.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\webroot\\bp\\test\\wp3ms\\wp-content\\plugins\\bp-wire\n"
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/bp-wire.php:93
+#, php-format
+msgid " <span>(%d)</span>"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/bp-wire.php:98
+msgid "All Posts"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/bp-wire.php:102
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/bp-wire.php:373
+#, php-format
+msgid "My %s"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/bp-wire.php:225
+#, php-format
+msgid "%s message could not be posted. Please try again."
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/bp-wire.php:227
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/inc/group-wire.php:83
+#, php-format
+msgid "%s message successfully posted."
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/bp-wire.php:274
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/inc/group-wire.php:100
+#, php-format
+msgid "%s message successfully deleted."
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/bp-wire.php:279
+#, php-format
+msgid "%s post could not be deleted, please try again."
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/bp-wire.php:347
+msgid "Yes"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/bp-wire.php:348
+msgid "No"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/bp-wire.php:355
+#, php-format
+msgid "A member writes on your %s"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/bp-wire.php:373
+#, php-format
+msgid "You have %d new %s posts"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/bp-wire.php:377
+#, php-format
+msgid "%s wrote you a new %s post"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/bp-wire.php:408
+#, php-format
+msgid "New %s post from %s"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/bp-wire.php:410
+#, php-format
+msgid ""
+"%s wrote on your %s:\n"
+"\n"
+"\"%s\"\n"
+"\n"
+"To view and read your %s posts please log in and visit: %s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/bp-wire.php:422
+#, php-format
+msgid "To disable these notifications please log in and go to: %s"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/inc/bp-wire-templatetags.php:137
+#, php-format
+msgid "There are currently no %s posts."
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/inc/bp-wire-templatetags.php:242
+#, php-format
+msgid "Viewing post %d to %d (%d total posts)"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/inc/bp-wire-templatetags.php:334
+msgid "You"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/inc/bp-wire-templatetags.php:360
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/inc/bp-wire-templatetags.php:362
+msgid "Delete"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/inc/bp-wire-templatetags.php:428
+msgid "your"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/inc/bp-wire-templatetags.php:464
+#, php-format
+msgid "%s says:"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/inc/bp-wire-templatetags.php:482
+msgid "Show Updates"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/inc/group-wire.php:81
+#, php-format
+msgid "%s message could not be posted."
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/inc/group-wire.php:98
+#, php-format
+msgid "There was an error deleting the %s message."
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/inc/group-wire.php:126
+#, php-format
+msgid "%s wrote on the %s of the group %s:"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/inc/group-wire.php:204
+#, php-format
+msgid "New wire post from %s on group %s ' wire"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/inc/group-wire.php:206
+#, php-format
+msgid ""
+"%s wrote on the group %s 's %s:\n"
+"\n"
+"\"%s\"\n"
+"\n"
+"To view and read  %s posts please log in and visit: %s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/inc/feed/group-feed.php:21
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/wire/group-wire.php:31
+#, php-format
+msgid "Group %s"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/inc/feed/group-feed.php:24
+#, php-format
+msgid "%s - Group %s Feed"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/inc/feed/profile-feed.php:24
+#, php-format
+msgid "%s - Profile %s Feed"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/wire/group-wire.php:31
+#, php-format
+msgid "There are no %s posts for %s"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/wire/latest.php:36
+#, php-format
+msgid "Your %s"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/wire/latest.php:36
+#, php-format
+msgid "%s's "
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/wire/latest.php:36
+#, php-format
+msgid "No one has posted to your %s yet."
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/wire/latest.php:36
+#, php-format
+msgid "No one has posted to %s's"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/wire/post-form.php:10
+#, php-format
+msgid "Write something to %s %s"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/wire/post-form.php:16
+msgid "Start writing a short message..."
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/wire/post-form.php:21
+msgid "Notify members via email (will slow down posting)"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/wire/post-form.php:25
+msgid "Post &raquo;"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/wire/post-list.php:10
+msgid "See All"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-wire/wire/post-list.php:45
+#, php-format
+msgid "%1$s"
+msgstr ""
+
